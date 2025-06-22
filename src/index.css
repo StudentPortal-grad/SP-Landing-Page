@@ -1,0 +1,6 @@
+@import "tailwindcss";
+html {
+    min-height: 100vh;
+    background-image: linear-gradient(to bottom right, #D0DFFC, #e6eeff, #b3cfff);
+    font-family: 'Inter';
+}

@@ -2,27 +2,27 @@ import React, { useState, useEffect } from 'react';
 
 const testimonials = [
   {
-    name: "Sarah Johnson",
+    name: "Ahmed Hassan",
     role: "Computer Science Student",
-    image: "https://randomuser.me/api/portraits/women/1.jpg",
+    image: "https://randomuser.me/api/portraits/men/10.jpg",
     content: "This platform has transformed how I collaborate with my peers. The resource sharing features are incredible!"
   },
   {
-    name: "Michael Chen",
+    name: "Fatma Ali",
     role: "Professor of Engineering",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
+    image: "https://randomuser.me/api/portraits/women/10.jpg",
     content: "As a faculty member, I've seen significant improvement in student engagement and collaboration."
   },
   {
-    name: "Emily Davis",
+    name: "Youssef Mohamed",
     role: "Biology Student",
-    image: "https://randomuser.me/api/portraits/women/2.jpg",
+    image: "https://randomuser.me/api/portraits/men/11.jpg",
     content: "The platform's ease of use and accessibility have made it a game-changer for my studies."
   },
   {
-    name: "David Wilson",
+    name: "Mona Samir",
     role: "Mathematics Professor",
-    image: "https://randomuser.me/api/portraits/men/2.jpg",
+    image: "https://randomuser.me/api/portraits/women/11.jpg",
     content: "The collaborative tools have significantly enhanced my teaching methods and student interaction."
   }
 ];
